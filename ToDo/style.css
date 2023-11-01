@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#F6B6B6;
+}
+.box{
+    width: 300px; 
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+
+}
